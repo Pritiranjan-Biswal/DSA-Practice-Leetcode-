@@ -7,6 +7,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Pritiranjan-Biswal/DSA-Practice-Leetcode-/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Pritiranjan-Biswal/DSA-Practice-Leetcode-/tree/master/0075-sort-colors) |
+| [0229-majority-element-ii](https://github.com/Pritiranjan-Biswal/DSA-Practice-Leetcode-/tree/master/0229-majority-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -23,8 +24,17 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Pritiranjan-Biswal/DSA-Practice-Leetcode-/tree/master/0075-sort-colors) |
+| [0229-majority-element-ii](https://github.com/Pritiranjan-Biswal/DSA-Practice-Leetcode-/tree/master/0229-majority-element-ii) |
 ## Linked List
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Pritiranjan-Biswal/DSA-Practice-Leetcode-/tree/master/0237-delete-node-in-a-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Pritiranjan-Biswal/DSA-Practice-Leetcode-/tree/master/0229-majority-element-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Pritiranjan-Biswal/DSA-Practice-Leetcode-/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
