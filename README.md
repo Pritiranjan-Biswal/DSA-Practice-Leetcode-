@@ -19,6 +19,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Pritiranjan-Biswal/DSA-Practice-Leetcode-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/Pritiranjan-Biswal/DSA-Practice-Leetcode-/tree/master/0075-sort-colors) |
 ## Sorting
 |  |
@@ -28,6 +29,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Pritiranjan-Biswal/DSA-Practice-Leetcode-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Pritiranjan-Biswal/DSA-Practice-Leetcode-/tree/master/0237-delete-node-in-a-linked-list) |
 ## Hash Table
 |  |
