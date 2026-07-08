@@ -13,7 +13,7 @@ public:
         }
         //after that iterate the set and check wheather the previous element is present in the set or not.
         //if the previous element is present, we can not count the longest sequence.
-        //so we hacve to check, wheather the elements have no previous element.
+        //so we have to check, wheather the elements have no previous element.
         //so that we can easily count the longest sequence.
 
 
