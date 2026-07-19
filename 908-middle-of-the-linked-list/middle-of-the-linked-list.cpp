@@ -11,19 +11,17 @@
 class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
-        int count=0;  //count the number of nodes
 
-        ListNode *temp=head;
-        while(temp != NULL) {
-            count++;
-            temp=temp->next;
-        }
-        count/=2;
-        temp=head;
-        //this number of steps i have to start from start
-        while(count--) {
-            temp=temp->next;
-        }
-        return temp;
+
+    ListNode* prev=head;
+    ListNode* curr=head;
+
+    while(curr !=NULL && curr->next != NULL)
+    {
+        prev=prev->next;
+        curr=curr->next->next;
+    }
+    return prev;
+
     }
 };
