@@ -51,3 +51,7 @@
 
 Working toward my GitHub achievements.
 <!---LeetCode Topics End-->
+
+## My GitHub Progress
+
+Learning GitHub workflows and open-source practices.
